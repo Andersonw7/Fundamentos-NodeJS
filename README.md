@@ -11,6 +11,7 @@ Nesse projeto inicial, o foco é aprender fundamentos importantes como:
 * Utilização de headers
 * Tipos de armazenamento de dados
 Inicialmente, o projeto utilizará o Stateful para salvar dados localmente na memória da API.
+* Entendendo os Streams do NodeJS e criando um Readable Stream para ler os dados de uma requisição
 
 🌐 (In this initial project, the focus is to learn important fundamentals such as:
 * Creating routes using HTTP methods
@@ -18,3 +19,4 @@ Inicialmente, o projeto utilizará o Stateful para salvar dados localmente na me
 * Using JSON to return a response to a request
 * Using headers and data storage types
 Initially using Stateful to save data locally in the API memory).
+* Understanding NodeJS Streams and Creating a Readable Stream to Read Request Data
